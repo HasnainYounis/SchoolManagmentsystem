@@ -14,13 +14,6 @@ E-mail: <input type="text" name="email"><br>
 </form>
 
     <?php
-    
-    $num = 13;
-    $rang= 20;
-    for($i=1;$i<=$rang;$i++){
-        echo($num ."*".$i."=". $num*$i."<br>");
-
-    }
  
 // $cars = ["mehran","civic","sonata"];
 // foreach($cars as $car){
