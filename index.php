@@ -14,6 +14,12 @@ E-mail: <input type="text" name="email"><br>
 </form>
 
     <?php
+   $a =5;
+    $b =6;
+    $sum = $a+$b;
+    echo ("The sum of two number is:".$sum ."<br>");
+    ECHO ("The sum of two number is:".$sum);
+    
  
 // $cars = ["mehran","civic","sonata"];
 // foreach($cars as $car){
